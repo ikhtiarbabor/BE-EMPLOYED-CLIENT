@@ -17,7 +17,7 @@ const JobDetails = () => {
   const applyJob = (id) => {
     addData(id);
     setApply(true);
-    sweetAlert('😊', 'You apply this job', 'success');
+    swal('😊', 'You apply this job', 'success');
   };
   useEffect(() => {
     let applied;

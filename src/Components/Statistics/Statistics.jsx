@@ -9,7 +9,7 @@ const Statistics = () => {
   return (
     <>
       <CommonSecBanner>MOHAMMAD IKHTIAR UDDIN</CommonSecBanner>
-      <section className='grid grid-cols-2 max-w-7xl mx-auto mt-8'>
+      <section className='md:grid grid-cols-2 max-w-7xl mx-auto mt-8'>
         <div>
           <h2 className='text-center text-3xl mb-5 '>Assignment Details</h2>
           <div>
@@ -36,7 +36,7 @@ const Statistics = () => {
             </div>
           </div>
         </div>
-        <div>
+        <div className='mx-auto text-center'>
           <h2 className='text-center text-3xl'>Assignment Marks Analytics</h2>
           <PieChart width={700} height={600}>
             <defs>

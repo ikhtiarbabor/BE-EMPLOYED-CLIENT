@@ -52,6 +52,22 @@ const Blog = () => {
               directly.
             </p>
           </article>
+          <div className='bg-gray-300 h-full flex justify-center items-center rounded'>
+            <img
+              src='https://i.ibb.co/PZjYcvx/jqd2j8y38gwp9x9p783f.png'
+              alt=''
+              className='p-7'
+            />
+          </div>
+          <article>
+            <h2 className='text-2xl'>What is React Memo?</h2>
+            <p>
+              React Memo is a higher-order component that wraps around a
+              component to memoize the rendered output and avoid unnecessary
+              renderings. This improves performance because it memoizes the
+              result and skips rendering to reuse the last rendered result.
+            </p>
+          </article>
         </div>
       </section>
     </>

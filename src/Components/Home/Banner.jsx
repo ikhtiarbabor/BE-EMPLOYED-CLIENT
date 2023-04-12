@@ -6,7 +6,7 @@ const Banner = () => {
     <section className='banner'>
       <div className='max-w-7xl mx-auto grid lg:grid-cols-2 items-center'>
         <div className='bannerText'>
-          <h1 className='md:text-7xl text-5xl font-bold leading-tight'>
+          <h1 className='md:text-7xl text-4xl font-bold leading-tight'>
             One Step <br /> Closer To Your <br />
             <span className='text-primary'> Dream Job</span>
           </h1>

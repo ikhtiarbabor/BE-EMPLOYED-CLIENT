@@ -2,7 +2,7 @@ import React from 'react';
 
 const CommonSecBanner = ({ children }) => {
   return (
-    <section className=' h-40 md:h-96 bg-transparent -z-10  flex items-center text-5xl justify-center'>
+    <section className=' h-40 md:h-96 bg-transparent -z-10  flex items-center text-3xl md:text-5xl justify-center'>
       <div
         style={{
           backgroundImage: `url(https://i.ibb.co/hF1kTjT/Vector-1.png),url(https://i.ibb.co/z7zJd91/Vector.png)`,
