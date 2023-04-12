@@ -18,3 +18,6 @@ This is assignment 9 from programming hero.
 - JavaScript
 - React
 - tailwind
+
+## Live link
+Live Site : https://marvelous-choux-a35a12.netlify.app/
