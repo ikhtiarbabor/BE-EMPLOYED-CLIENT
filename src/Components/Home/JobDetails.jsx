@@ -9,6 +9,7 @@ import {
 } from '@heroicons/react/24/solid';
 import { addData, getLocalData } from '../../localStore/LocalStore';
 import CommonSecBanner from '../ComonSecBanner/CommonSecBanner';
+import swal from 'sweetalert';
 
 const JobDetails = () => {
   const data = useLoaderData();
@@ -16,6 +17,7 @@ const JobDetails = () => {
   const applyJob = (id) => {
     addData(id);
     setApply(true);
+    sweetAlert('😊', 'You apply this job', 'success');
   };
   useEffect(() => {
     let applied;

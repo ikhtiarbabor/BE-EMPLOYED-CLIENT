@@ -16,4 +16,7 @@
   .section-container {
     @apply mx-auto max-w-7xl min-h-[calc(100vh-176px)] text-center  pt-7 mt-7;
   }
+  .applied-button {
+    @apply border-[#7E90FE] cursor-pointer hover:bg-[#7E90FE] hover:text-white duration-300 font-semibold text-[#7E90FE] border-[2px] rounded-md px-3 py-1;
+  }
 }
