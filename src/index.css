@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #root {
+  background-color: #fff;
+  z-index: -10100;
+} */
+@layer components {
+  .btn-primary {
+    @apply p-3 bg-gradient-to-r from-sky-300  to-violet-600 text-white rounded hover:bg-gradient-to-l hover:from-violet-600 hover:to-cyan-500;
+  }
+  .section-title {
+    @apply text-4xl font-bold pb-5;
+  }
+  .section-container {
+    @apply mx-auto max-w-7xl min-h-[calc(100vh-176px)] text-center  pt-7 mt-7;
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "assignment": "Assignment 01",
+    "name": "Build Your New Year New Mission",
+    "marks": "59",
+    "siteLink": "https://ikhtiarbabor.github.io/new-year-new-me/",
+    "codeLink": "https://github.com/ikhtiarbabor/new-year-new-me",
+    "submissionMarks": "60"
+  },
+  {
+    "assignment": "Assignment 02",
+    "name": "Responsive G3 Architects Website",
+    "marks": 59,
+    "siteLink": "https://ikhtiarbabor.github.io/g3-architects/",
+    "codeLink": "https://github.com/ikhtiarbabor/g3-architects",
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 03",
+    "name": "Legal Solution",
+    "marks": 60,
+    "siteLink": "https://stellar-narwhal-d5f421.netlify.app/",
+    "codeLink": null,
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 04",
+    "name": "Program Solve using Js Function",
+    "marks": 57,
+    "siteLink": null,
+    "codeLink": null,
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 05",
+    "name": "Geometry Calculation",
+    "marks": 60,
+    "siteLink": "https://resplendent-lily-85193a.netlify.app/",
+    "codeLink": null,
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 06",
+    "name": "Ai Universe",
+    "marks": 60,
+    "siteLink": "https://endearing-salmiakki-46bbc2.netlify.app/",
+    "codeLink": null,
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 07",
+    "name": "Quiz Hero Bugfix Site",
+    "marks": 60,
+    "siteLink": "https://singular-blancmange-081d7b.netlify.app/",
+    "codeLink": null,
+    "submissionMarks": 60
+  },
+  {
+    "assignment": "Assignment 08",
+    "name": "Cyber Cafe React",
+    "marks": 60,
+    "siteLink": "https://rococo-bavarois-ff3ade.netlify.app/",
+    "codeLink": null,
+    "submissionMarks": 60
+  }
+]
