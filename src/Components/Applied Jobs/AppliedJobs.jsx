@@ -65,7 +65,14 @@ const AppliedJobs = () => {
         {job?.map((job, index) => (
           <Job key={job._id + index} job={job} />
         ))}
-        {job.length === 0 && <div>You don't apply Job Yet</div>}
+        {job.length === 0 && (
+          <div className=''>
+            <h2 className='font-bold text-transparent md:text-3xl text-2xl bg-clip-text bg-gradient-to-r from-sky-300  to-violet-600'>
+              {' '}
+              You don't apply Job Yet ❌{' '}
+            </h2>
+          </div>
+        )}
       </section>
     </>
   );
